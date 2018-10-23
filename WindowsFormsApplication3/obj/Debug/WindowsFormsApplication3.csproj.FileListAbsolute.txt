@@ -1,0 +1,27 @@
+c:\users\hornyt0x\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Hornyt0x\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Hornyt0x\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Hornyt0x\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Hornyt0x\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Hornyt0x\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Hornyt0x\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Hornyt0x\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Hornyt0x\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Hornyt0x\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.dll
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.xml
+C:\Users\WilHen\Desktop\Trabajo con horny\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hornyt0x\Documents\GitHub\Sofware-Ventas\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Hornyt0x\Documents\GitHub\Sofware-Ventas\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Hornyt0x\Documents\GitHub\Sofware-Ventas\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
